@@ -19,11 +19,11 @@ pnpm install
 ### Compile and Hot-Reload for Development
 
 ```sh
-pnpm dev
+/Users/sass/Library/pnpm/pnpm dev
 ```
 
 ### Compile and Minify for Production
 
 ```sh
-pnpm build
+/Users/sass/Library/pnpm/pnpm build
 ```
