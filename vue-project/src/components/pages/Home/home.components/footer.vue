@@ -13,10 +13,8 @@ const currentYear = new Date().getFullYear();
             <div class="footer-section">
                 <h3>Meie teenused</h3>
                 <ul>
-                    <li><a href="#">Konsultatsioonid</a></li>
-                    <li><a href="#">Arendus</a></li>
-                    <li><a href="#">Disain</a></li>
-                    <li><a href="#">Koolitus</a></li>
+                    <li><a href="#">Info</a></li>
+                    <li><a href="#">info</a></li>
                 </ul>
             </div>
             <div class="footer-section">

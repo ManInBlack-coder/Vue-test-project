@@ -17,6 +17,9 @@ coverage
 /cypress/videos/
 /cypress/screenshots/
 
+# SSR pages kaust
+/pages/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -28,3 +31,5 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+

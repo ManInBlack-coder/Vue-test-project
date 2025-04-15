@@ -30,5 +30,9 @@ import Footer from './home.components/footer.vue'
 
 .content-wrapper {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 </style>
